@@ -13,6 +13,6 @@ $nama = ["muhamad","raihan","nurhidayat"]
     <title>Document</title>
 </head>
 <body>
-    <h1>halo nama saya <?= $nama[0]?></h1>
+    <h1>halo nama saya <?php echo $nama[0]?></h1>
 </body>
 </html>
