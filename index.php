@@ -14,5 +14,7 @@ $nama = ["muhamad","raihan","nurhidayat"]
 </head>
 <body>
     <h1>halo nama saya <?php echo $nama[0]?></h1>
+    <h1>halo nama saya <?php echo $nama[1]?></h1>
+
 </body>
 </html>
